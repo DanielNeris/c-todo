@@ -1,0 +1,8 @@
+# CMake build output
+build/
+
+# Saved todos (local user data)
+todos.txt
+
+# macOS
+.DS_Store
